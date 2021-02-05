@@ -34,7 +34,7 @@ var APP_DATA = {
           "yaw": -0.9241118465987235,
           "pitch": 0.28868557419134255,
           "title": "Engineering Intro",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1I4E-x6Y-ojfX9K3x13tfaxr13TevfaqB/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -0.6119001131925064,
