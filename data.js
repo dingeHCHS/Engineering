@@ -40,25 +40,25 @@ var APP_DATA = {
           "yaw": -0.6119001131925064,
           "pitch": 0.012472317883309714,
           "title": "Engineering Video 2",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1I4FzqgVpE45-D8Iz1ScNPEttcvKke8-b/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": 2.1653394252602443,
           "pitch": 0.2522829796258712,
           "title": "Engineering 5",
-          "text": "Text"
+          "text": ""
         },
         {
           "yaw": 0.11993548103065166,
           "pitch": -0.010090994458156644,
           "title": "Engineering 4",
-          "text": "Text"
+          "text": ""
         },
         {
           "yaw": -0.04205505457315084,
           "pitch": 0.0015901568642533448,
           "title": "Engineering 3",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1I5bGNlpe4oZUkiBscpVI92kbiE01AOFb/preview" width="640" height="480"></iframe>'
         }
       ]
     }
