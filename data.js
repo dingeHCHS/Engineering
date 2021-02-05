@@ -46,13 +46,13 @@ var APP_DATA = {
           "yaw": 2.1653394252602443,
           "pitch": 0.2522829796258712,
           "title": "Engineering 5",
-          "text": ""
+          "text": '<iframe src="https://drive.google.com/file/d/1IBgzWWsrayCwlfgzJCfcw062k7fGqcgW/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": 0.11993548103065166,
           "pitch": -0.010090994458156644,
           "title": "Engineering 4",
-          "text": ""
+          "text": '<iframe src="https://drive.google.com/file/d/1IG9WxfzC-LNsnVIDKu1zCT7U9CMFnt2y/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -0.04205505457315084,
